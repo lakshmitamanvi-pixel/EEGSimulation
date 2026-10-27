@@ -1,0 +1,5 @@
+data/*.edf
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
